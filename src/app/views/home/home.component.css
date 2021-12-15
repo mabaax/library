@@ -1,0 +1,28 @@
+
+.slide .content {
+  padding-top:280px;
+  text-align:center;
+  color:#fff;
+}
+.slide .mask {
+  /*display:none;*/
+  background:#202835;
+  background: rgba(32, 40, 53, 0.3);
+  padding:30px 170px;
+  width:70%;
+  margin:0 auto;
+  text-transform:uppercase;
+}
+
+div {
+  font-family:'Questrial';
+  color:#BCBEC2;
+}
+h1 {
+  font-family:'Questrial';
+  font-size:25px;
+}
+p {
+  font-size: 29px;
+  color:#44495e;
+}
